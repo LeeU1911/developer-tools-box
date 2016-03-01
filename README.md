@@ -10,4 +10,5 @@ https://curl.haxx.se/download.html
 Total Commander:
 http://www.ghisler.com/download.htm
 
-
+Atom Editor:
+https://atom.io/
