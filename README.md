@@ -12,3 +12,10 @@ http://www.ghisler.com/download.htm
 
 Atom Editor:
 https://atom.io/
+
+NodeJs:
+https://nodejs.org/en/
+
+Grunt:
+http://gruntjs.com/getting-started#installing-the-cli
+
