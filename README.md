@@ -19,3 +19,11 @@ https://nodejs.org/en/
 Grunt:
 http://gruntjs.com/getting-started#installing-the-cli
 
+IntelliJ:
+https://www.jetbrains.com/idea/download/
+
+Ruby:
+http://rubyinstaller.org/
+
+Ruby Gem:
+https://rubygems.org/pages/download
