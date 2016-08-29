@@ -26,6 +26,12 @@ http://rubyinstaller.org/
 Ruby Gem:
 https://rubygems.org/pages/download
 
+Cntlm:
+https://sourceforge.net/projects/cntlm/files/latest/download?source=files
+
+Golang:
+https://golang.org/doc/install?download=go1.7.windows-amd64.msi
+
 #Database
 PostgreSQL:
 http://www.postgresql.org/download/
