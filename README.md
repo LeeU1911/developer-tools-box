@@ -36,6 +36,8 @@ https://golang.org/doc/install?download=go1.7.windows-amd64.msi
 PostgreSQL:
 http://www.postgresql.org/download/
 
+MySQl:
+http://dev.mysql.com/downloads/installer/
 
 #IDE:
 IntelliJ:
